@@ -8,6 +8,8 @@
 #### ✔️ GOAL: [이유한님] [캐글 코리아 캐글 스터디 커널 커리큘럼](https://kaggle-kr.tistory.com/32) 따라가기
 - Titanic
   - [이유한님 타이타닉 커널](https://kaggle-kr.tistory.com/17) 필사
+- DieTanic
+  - [EDA to Prediction(DieTanic)](https://www.kaggle.com/code/ash316/eda-to-prediction-dietanic/notebook) 필사
 
 - Biking Sharing Demand
 <!-- #endregion -->
