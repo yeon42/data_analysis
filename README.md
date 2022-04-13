@@ -6,10 +6,13 @@
 
 ### 🌿 캐글
 #### ✔️ GOAL: [이유한님] [캐글 코리아 캐글 스터디 커널 커리큘럼](https://kaggle-kr.tistory.com/32) 따라가기
-- Titanic
-  - [이유한님 타이타닉 커널](https://kaggle-kr.tistory.com/17) 필사
-- DieTanic
-  - [EDA to Prediction(DieTanic)](https://www.kaggle.com/code/ash316/eda-to-prediction-dietanic/notebook) 필사
+1st level. Titanic: Machine Learning from Disaster
+- [이유한님 타이타닉 커널](https://kaggle-kr.tistory.com/17) 필사
+- [EDA to Prediction(DieTanic)](https://www.kaggle.com/code/ash316/eda-to-prediction-dietanic/notebook) 필사
 
+2nd level. Porto Seguro's Safe Driver Prediction
+- [Data Preparation & Exploration](https://www.kaggle.com/code/bertcarremans/data-preparation-exploration/notebook) 필사
+
+<br/>
 - Biking Sharing Demand
 <!-- #endregion -->
